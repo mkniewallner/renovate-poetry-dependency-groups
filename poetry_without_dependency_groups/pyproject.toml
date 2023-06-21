@@ -12,7 +12,7 @@ SQLAlchemy = { extras = ["postgresql_asyncpg"], version = "1.4.40" }
 starlette = "0.20.0"
 
 [tool.poetry.dev-dependencies]
-mypy = "0.961"
+mypy = "0.991"
 pytest = "7.1.0"
 sqlalchemy2-stubs = "0.0.2a27"
 types-redis = "4.3.19"
